@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 parent_title: Projects
+parent_type: CourseSection
 parent_uid: f3e5f503-51c3-4123-888d-13c00c404d5b
 title: Final Model
 uid: 64f8f813-d452-6681-cf02-93ee7a11950e
@@ -8,7 +12,7 @@ uid: 64f8f813-d452-6681-cf02-93ee7a11950e
 
 Final Model
 -----------
-{{< image-gallery id="64f8f813-d452-6681-cf02-93ee7a11950e_nanogallery2" baseUrl="https://open-learning-course-data-rc.s3.amazonaws.com/4-170-ecuador-workshop-fall-2006/" >}}
+{{< image-gallery id="64f8f813-d452-6681-cf02-93ee7a11950e_nanogallery2" baseUrl="/courses/4-170-ecuador-workshop-fall-2006/" >}}
 {{< image-gallery-item href="86bea6614bff5c777291788a64866383_01.jpg" data-ngdesc="An overall view of the project and site." text="An overall view of the project and site." >}}
 {{< image-gallery-item href="d9f499cf4b47b5e598d8cc5f2bbed877_02.jpg" data-ngdesc="An overall view from directly above." text="An overall view from directly above." >}}
 {{< image-gallery-item href="000dc354db3b1a092395a3509787701c_03.jpg" data-ngdesc="With the roofs removed, the spaces become clear." text="With the roofs removed, the spaces become clear." >}}

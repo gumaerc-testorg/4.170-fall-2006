@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 parent_title: Projects
+parent_type: CourseSection
 parent_uid: f3e5f503-51c3-4123-888d-13c00c404d5b
 title: Plans, Sections, and Elevations
 uid: 81f5d703-8569-5d13-bdf0-6e28c06612fb
@@ -8,7 +12,7 @@ uid: 81f5d703-8569-5d13-bdf0-6e28c06612fb
 
 Plans, Sections, and Elevations
 -------------------------------
-{{< image-gallery id="81f5d703-8569-5d13-bdf0-6e28c06612fb_nanogallery2" baseUrl="https://open-learning-course-data-rc.s3.amazonaws.com/4-170-ecuador-workshop-fall-2006/" >}}
+{{< image-gallery id="81f5d703-8569-5d13-bdf0-6e28c06612fb_nanogallery2" baseUrl="/courses/4-170-ecuador-workshop-fall-2006/" >}}
 {{< image-gallery-item href="1563ca2038800f11709eed75bb2be206_01_planfloor1.jpg" data-ngdesc="First floor plan." text="First floor plan." >}}
 {{< image-gallery-item href="afdead7d9d4c134e990318e5ff65b633_02_planfloor2.jpg" data-ngdesc="Second floor plan." text="Second floor plan." >}}
 {{< image-gallery-item href="ddd5f38abd12fe3b8c1799d7c3b1c9b9_03_planroof.jpg" data-ngdesc="Roof plan." text="Roof plan." >}}

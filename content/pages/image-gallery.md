@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Image Gallery
 uid: 8ab0d46b-c1a6-001c-2f9f-86fc11331618
 ---
@@ -15,7 +17,7 @@ When we left, four days later, what we left behind was a "corner stone", drawing
 \- Jan Wampler
 
 The following images document the studio's three days in Pascuales and Guayaquil.
-{{< image-gallery id="8ab0d46b-c1a6-001c-2f9f-86fc11331618_nanogallery2" baseUrl="https://open-learning-course-data-rc.s3.amazonaws.com/4-170-ecuador-workshop-fall-2006/" >}}
+{{< image-gallery id="8ab0d46b-c1a6-001c-2f9f-86fc11331618_nanogallery2" baseUrl="/courses/4-170-ecuador-workshop-fall-2006/" >}}
 {{< image-gallery-item href="71ec76469c0b492bc83373283af55b36_01.jpg" data-ngdesc="Nicki Lehrer leads the tour of Pascuales." text="Nicki Lehrer leads the tour of Pascuales." >}}
 {{< image-gallery-item href="0f2197382c7e0407e9e2b977150d15ca_02.jpg" data-ngdesc="Wherever we went, we were surrounded by the children." text="Wherever we went, we were surrounded by the children." >}}
 {{< image-gallery-item href="3e1803915644bdc93157c4bd5bf2370a_03.jpg" data-ngdesc="We met with many of the communitys leaders, invited into their homes." text="We met with many of the communitys leaders, invited into their homes." >}}

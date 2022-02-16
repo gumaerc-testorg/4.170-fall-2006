@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Ecuador Orphans
 uid: 4dee0ede-084b-5f91-0b80-d5572d3c4359
 ---

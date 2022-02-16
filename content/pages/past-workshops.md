@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Past Workshops
 uid: 3d6afc6e-c5c2-24b1-ad6d-cb1fe2e8f3d2
 ---
