@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section contains the agenda for the January trip to Ecuador.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar

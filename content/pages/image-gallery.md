@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains a gallery of images that document the studio's
+  three days in Pascuales and Guayaquil.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Image Gallery
