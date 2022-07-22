@@ -1,6 +1,11 @@
 ---
 content_type: page
+description: ''
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 parent_title: Projects
+parent_type: CourseSection
 parent_uid: f3e5f503-51c3-4123-888d-13c00c404d5b
 title: Sketch Model
 uid: 66cdf50b-aa03-d495-3837-9abc0687c789
@@ -8,7 +13,7 @@ uid: 66cdf50b-aa03-d495-3837-9abc0687c789
 
 Sketch Model
 ------------
-{{< image-gallery id="66cdf50b-aa03-d495-3837-9abc0687c789_nanogallery2" baseUrl="https://open-learning-course-data-rc.s3.amazonaws.com/4-170-ecuador-workshop-fall-2006/" >}}
+{{< image-gallery id="66cdf50b-aa03-d495-3837-9abc0687c789_nanogallery2" baseUrl="/courses/4-170-ecuador-workshop-fall-2006/" >}}
 {{< image-gallery-item href="f87bb33bf06539dbea8f93dc286ff4e7_01.jpg" data-ngdesc="The front façade of the community center." text="The front façade of the community center." >}}
 {{< image-gallery-item href="1e84ef7cb90774f36e426d448dad5510_02.jpg" data-ngdesc="Looking at the main façade of the center from the entrance." text="Looking at the main façade of the center from the entrance." >}}
 {{< image-gallery-item href="66c8727d5cca1eacd44dd3cd8682254e_03.jpg" data-ngdesc="From the opposite corner, two sides of the site." text="From the opposite corner, two sides of the site." >}}

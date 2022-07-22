@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section contains the agenda for the January trip to Ecuador.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: b17d19a4-2af1-7b93-61f3-f7b9409ea72e
 ---

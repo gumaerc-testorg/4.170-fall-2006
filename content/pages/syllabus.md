@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section contains an overview of the course.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 8167d81d-5ace-e952-75f9-327b004340b3
 ---
@@ -24,4 +27,4 @@ The intention is to start construction as soon as possible, but will most likely
 
 The workshop is primarily for senior undergraduates, although graduates will also be considered. Enrollment is limited to 4 or 5 for the semester; however, more could be enlisted for the construction.
 
-The workshop was featured in the March 2007 issue of the Department of Undergraduate Education News. ([PDF]({{< baseurl >}}/resources/duewriteup))
+The workshop was featured in the March 2007 issue of the Department of Undergraduate Education News. ({{% resource_link d2babef6-f620-a1d0-adff-79a0a89a5b64 "PDF" %}})
