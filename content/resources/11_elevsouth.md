@@ -8,6 +8,7 @@ image_metadata:
   credit: Image courtesy of the workshop.
   image-alt: South elevation.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Plans, Sections, and Elevations
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: 11_elevsouth.jpg
 uid: 41731f6a-8044-1523-1ef5-095812d70996
 ---
 South elevation.
-

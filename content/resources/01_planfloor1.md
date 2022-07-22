@@ -8,6 +8,7 @@ image_metadata:
   credit: Image courtesy of the workshop.
   image-alt: First floor plan.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Plans, Sections, and Elevations
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: 01_planfloor1.jpg
 uid: 1563ca20-3880-0f11-709e-ed75bb2be206
 ---
 First floor plan.
-

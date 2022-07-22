@@ -8,6 +8,7 @@ image_metadata:
   credit: Image courtesy of the workshop.
   image-alt: Roof plan.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Plans, Sections, and Elevations
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: 03_planroof.jpg
 uid: ddd5f38a-bd12-fe3b-8c17-99d7c3b1c9b9
 ---
 Roof plan.
-

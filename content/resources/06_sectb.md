@@ -8,6 +8,7 @@ image_metadata:
   credit: Image courtesy of the workshop.
   image-alt: Section B.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Plans, Sections, and Elevations
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: 06_sectB.jpg
 uid: 0037d108-e237-48f9-f433-98ce87996e08
 ---
 Section B.
-

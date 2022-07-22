@@ -8,6 +8,7 @@ image_metadata:
   credit: Image courtesy of the workshop.
   image-alt: West elevation.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Plans, Sections, and Elevations
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: 10_elevwest.jpg
 uid: cb7ee28b-baf7-24e2-1e55-c5393a914869
 ---
 West elevation.
-

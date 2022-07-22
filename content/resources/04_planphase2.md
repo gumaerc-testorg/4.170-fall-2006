@@ -8,6 +8,7 @@ image_metadata:
   credit: Image courtesy of the workshop.
   image-alt: First floor plan, during the second phase.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Plans, Sections, and Elevations
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: 04_planphase2.jpg
 uid: c53a4987-9533-8e17-0b94-3ce42637368c
 ---
 First floor plan, during the second phase.
-
