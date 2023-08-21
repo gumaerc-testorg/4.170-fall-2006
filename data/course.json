@@ -2,7 +2,8 @@
   "term": "Fall",
   "year": "2006",
   "level": [
-    "Undergraduate"
+    "Undergraduate",
+    "Graduate"
   ],
   "topics": [
     [
@@ -47,6 +48,7 @@
     "Image Gallery",
     "Design Assignments with Examples"
   ],
-  "site_uid": "c4ebf3ea-e0b8-439f-8db4-79e1dddff785",
+  "site_uid": "6b101e14-6243-4f8b-a4f3-7b939572ba1d",
+  "short_id": "4.170-fall-2006",
   "title": "Course Metadata"
 }
