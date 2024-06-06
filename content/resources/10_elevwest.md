@@ -2,6 +2,7 @@
 content_type: resource
 description: West elevation.
 file: /courses/4-170-ecuador-workshop-fall-2006/cb7ee28bbaf724e21e55c5393a914869_10_elevwest.jpg
+file_size: 39213
 file_type: image/jpeg
 image_metadata:
   caption: West elevation.

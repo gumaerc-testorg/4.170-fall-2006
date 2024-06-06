@@ -4,6 +4,7 @@ description: This resource contains a brief history of the Children of Guayaquil
   Communitario "Manos Solidarias Internacional" project from the founder of the charitable
   foundation, Nicki Lehrer.
 file: /courses/4-170-ecuador-workshop-fall-2006/1d33c05e721a7620a41bd5a071f0db78_children_english.pdf
+file_size: 380711
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
