@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains a personal statement, written by W. Victoria Lee,
   about her experience with the Ecuador International Workshop.
 file: /courses/4-170-ecuador-workshop-fall-2006/3a368018c484306d6af4fdca00941024_7lee.pdf
+file_size: 12872
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

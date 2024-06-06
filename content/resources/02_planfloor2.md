@@ -2,6 +2,7 @@
 content_type: resource
 description: Second floor plan.
 file: /courses/4-170-ecuador-workshop-fall-2006/afdead7d9d4c134e990318e5ff65b633_02_planfloor2.jpg
+file_size: 44802
 file_type: image/jpeg
 image_metadata:
   caption: Second floor plan.

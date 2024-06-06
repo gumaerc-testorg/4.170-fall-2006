@@ -2,6 +2,7 @@
 content_type: resource
 description: Roof plan.
 file: /courses/4-170-ecuador-workshop-fall-2006/ddd5f38abd12fe3b8c1799d7c3b1c9b9_03_planroof.jpg
+file_size: 42127
 file_type: image/jpeg
 image_metadata:
   caption: Roof plan.

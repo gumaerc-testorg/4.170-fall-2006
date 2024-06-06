@@ -6,6 +6,7 @@ description: 'This resource contains a research report on Ecuador, compiled by t
   politics, demographics, education, interesting Points, a demographic comparison
   of Ecuador vs. United States, and culture.'
 file: /courses/4-170-ecuador-workshop-fall-2006/7e247d0aa83a023e305bd68d5bda76d2_ecuador.pdf
+file_size: 87031
 file_type: application/pdf
 learning_resource_types:
 - Projects
