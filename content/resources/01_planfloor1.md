@@ -2,6 +2,7 @@
 content_type: resource
 description: First floor plan.
 file: /courses/4-170-ecuador-workshop-fall-2006/1563ca2038800f11709eed75bb2be206_01_planfloor1.jpg
+file_size: 45699
 file_type: image/jpeg
 image_metadata:
   caption: First floor plan.

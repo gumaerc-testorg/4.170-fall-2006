@@ -4,6 +4,7 @@ description: This resource contains a personal statement, written by Steven Jack
   about a workshop on the design of house and home prototypes in the Hutong district
   of Beijing, China.
 file: /courses/4-170-ecuador-workshop-fall-2006/0874976d6fe26213e643f1c190f55d17_3jackson.pdf
+file_size: 9814
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

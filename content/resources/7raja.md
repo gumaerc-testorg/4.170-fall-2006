@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains a personal statement, written by Harini Rajaraman,
   about her experience with the Ecuador International Workshop.
 file: /courses/4-170-ecuador-workshop-fall-2006/12d5231eadc9ab161ceb376575f8f786_7raja.pdf
+file_size: 16985
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
