@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Section B.
-file: /courses/4-170-ecuador-workshop-fall-2006/0037d108e23748f9f43398ce87996e08_06_sectB.jpg
+file: /ol-ocw-studio-app/courses/4-170-ecuador-workshop-fall-2006/0037d108e23748f9f43398ce87996e08_06_sectB.jpg
 file_size: 39961
 file_type: image/jpeg
 image_metadata:
