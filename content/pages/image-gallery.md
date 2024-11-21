@@ -7,7 +7,6 @@ ocw_type: CourseSection
 title: Image Gallery
 uid: 8ab0d46b-c1a6-001c-2f9f-86fc11331618
 ---
-
 On Day 3, Jan Wampler and three students from MIT's Department of Architecture presented the design for the "Street Children's Center" in Pascuales, Ecuador. They had been working for the last semester designing the building in this workshop. The event was marked by celebrations in the community: food was cooked, entertainment including dancing and singing by people of the community was held, and many came dressed in their best clothes. Between 800 to 1000 people came to the event that started in the afternoon and went on well into the evening.
 
 The event ended by making a "corner stone" for the new building by having children's handprints imprinted into wet concrete that then dried the next day, making a wall of handprints that the children can forever proudly point to. Jan Wampler, the students and Nicki Lehrer and Andrea Pazmino and others that organized the event also added their initials.

@@ -9,8 +9,8 @@ parent_type: CourseSection
 parent_uid: f3e5f503-51c3-4123-888d-13c00c404d5b
 title: Final Model
 uid: 64f8f813-d452-6681-cf02-93ee7a11950e
+weight: 30
 ---
-
 Final Model
 -----------
 {{< image-gallery id="64f8f813-d452-6681-cf02-93ee7a11950e_nanogallery2" baseUrl="/courses/4-170-ecuador-workshop-fall-2006/" >}}
