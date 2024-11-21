@@ -9,8 +9,8 @@ parent_type: CourseSection
 parent_uid: f3e5f503-51c3-4123-888d-13c00c404d5b
 title: Sketch Model
 uid: 66cdf50b-aa03-d495-3837-9abc0687c789
+weight: 20
 ---
-
 Sketch Model
 ------------
 {{< image-gallery id="66cdf50b-aa03-d495-3837-9abc0687c789_nanogallery2" baseUrl="/courses/4-170-ecuador-workshop-fall-2006/" >}}
