@@ -9,8 +9,8 @@ parent_type: CourseSection
 parent_uid: f3e5f503-51c3-4123-888d-13c00c404d5b
 title: Plans, Sections, and Elevations
 uid: 81f5d703-8569-5d13-bdf0-6e28c06612fb
+weight: 40
 ---
-
 Plans, Sections, and Elevations
 -------------------------------
 {{< image-gallery id="81f5d703-8569-5d13-bdf0-6e28c06612fb_nanogallery2" baseUrl="/courses/4-170-ecuador-workshop-fall-2006/" >}}
