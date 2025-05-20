@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: South elevation.
-file: /ol-ocw-studio-app/courses/4-170-ecuador-workshop-fall-2006/41731f6a804415231ef5095812d70996_11_elevsouth.jpg
+file: /courses/4-170-ecuador-workshop-fall-2006/41731f6a804415231ef5095812d70996_11_elevsouth.jpg
 file_size: 39017
 file_type: image/jpeg
 image_metadata:

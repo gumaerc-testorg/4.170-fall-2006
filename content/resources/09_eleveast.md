@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: East elevation.
-file: /ol-ocw-studio-app/courses/4-170-ecuador-workshop-fall-2006/f3dadb832035408b1cc391939508c9ac_09_eleveast.jpg
+file: /courses/4-170-ecuador-workshop-fall-2006/f3dadb832035408b1cc391939508c9ac_09_eleveast.jpg
 file_size: 37337
 file_type: image/jpeg
 image_metadata:
