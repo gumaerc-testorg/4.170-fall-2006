@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains a personal statement, written by Rodney Zeismann
   and Sandra Ventura, about a workshop on the design of housing, a community center
   prototype, and public spaces in Gujerat, India.
-file: /ol-ocw-studio-app/courses/4-170-ecuador-workshop-fall-2006/44aa9d5d905c57cc0c64f0cbabaa7791_1zeismannventura.pdf
+file: /courses/4-170-ecuador-workshop-fall-2006/44aa9d5d905c57cc0c64f0cbabaa7791_1zeismannventura.pdf
 file_size: 18678
 file_type: application/pdf
 learning_resource_types: []
