@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains a photographic summary of the Children of Guayaquil?s
   first project: Centro Communitario "Manos Solidarias Internacional."'
-file: /courses/4-170-ecuador-workshop-fall-2006/9f6645661b6a20e2bf4d066072b03406_pascuales.pdf
+file: /ol-ocw-studio-app/courses/4-170-ecuador-workshop-fall-2006/9f6645661b6a20e2bf4d066072b03406_pascuales.pdf
 file_size: 928774
 file_type: application/pdf
 learning_resource_types: []
