@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: First floor plan, during the second phase.
-file: /courses/4-170-ecuador-workshop-fall-2006/c53a498795338e170b943ce42637368c_04_planphase2.jpg
+file: /ol-ocw-studio-app/courses/4-170-ecuador-workshop-fall-2006/c53a498795338e170b943ce42637368c_04_planphase2.jpg
 file_size: 44721
 file_type: image/jpeg
 image_metadata:
