@@ -20,4 +20,4 @@ More information on the foundation can be found at the link below:
 The Foundation
 --------------
 
-[Children of Guayaquil](https://www.sos-usa.org/where-we-are/americas/ecuador/guayaquil)
+{{% resource_link "cf32bd71-a18e-43e5-ad2d-3c70a61fec2c" "Children of Guayaquil" %}}
